@@ -1,3 +1,2 @@
-const sayHeLLo =  "Hello";
-
+const sayHeLLo = "Hello";
 console.log(sayHeLLo);
